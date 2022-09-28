@@ -9,7 +9,7 @@
  */
 public class Bit {
     public static void main(String[] args) {
-        int a=3, b=5, c;
+        int a=4, b=9, c;
         c = a%b;
         System.out.println("a AND b = " + c);
         c = a|b;
