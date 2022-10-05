@@ -45,6 +45,7 @@ public class ProjectPertama {
 //        System.out.println("USIA = " + usia);
         
         
+<<<<<<< HEAD
         String nama = "Alfi Ahmad Syamsudin";
         String nik = "0909090909099090";
         String tmptlhir = "Magetan,", tgllhir="02-03-2004";
@@ -57,6 +58,24 @@ public class ProjectPertama {
         System.out.format("tempat, tanggal lahir : %s %s %n", tmptlhir,tgllhir);
         System.out.println("Jenis kelamin : " + jkel);
         System.out.println("Berat Badan : " + bb);
+=======
+//        String nama = "Ilma Eka Purnamasari";
+//        String nik = "3500000000000000";
+//        String tmptlhir = "Bondowoso,", tgllhir="07-03-2004";
+//        char jkel = 'p';
+//        final double bb = 45.00;
+//        System.out.println("Identitas Pribadi");
+//        System.out.println("=================");
+//        System.out.println("Nomor Induk Kependudukan = " + nik);
+//        System.out.println("Nama : " + nama);
+//        System.out.format("tempat, tanggal lahir : %s %s %n", tmptlhir,tgllhir);
+//        System.out.println("Jenis kelamin : " + jkel);
+//        System.out.println("Berat Badan : " + bb);
+
+//          int i=2, j=3, k=5;
+//          int l =(int) 1.5;
+//          System.out.println((i+j+k/3.0));
+>>>>>>> b931b36 (add repo)
           
 
     }
